@@ -1,13 +1,12 @@
 # Hi there, I'm Prajesh! 👋
 
-### Aspiring Cybersecurity Professional | VAPT Specialist | IT Student
+### Cybersecurity Professional | VAPT Specialist | IT Student
 
 I'm an Information Technology student with a strong focus on offensive security, ethical hacking, and vulnerability assessment. When I'm not auditing systems or tackling CTF challenges, I'm creating educational content to help others navigate the cybersecurity landscape.
 
 ### 🛡️ What I Do
 * 🔍 **VAPT & Ethical Hacking:** Performing deep-dive security audits and network scans using industry-standard tools.
-* 💻 **Software Development:** Building secure applications and crafting modern mobile architectures.
-* 🎥 **Content Creation:** Running the **Cyberspace Cadet** YouTube channel, specializing in practical security tutorials and signup demos for bug bounty platforms like Bugcrowd.
+* 💻 **Software Development:** Building secure Webapplications and crafting modern mobile architectures.
 * 🤝 **Team Collaboration:** Actively participating in national cybersecurity hackathons and competitive technical challenges.
 
 ### 🏆 Achievements
