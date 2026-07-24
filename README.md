@@ -10,7 +10,7 @@ I'm an Information Technology student with a strong focus on offensive security,
 * 🤝 **Team Collaboration:** Actively participating in national cybersecurity hackathons and competitive technical challenges.
 
 ### 🏆 Achievements
-* 🌐 **TryHackMe:** Ranked in the **Top 4%** Globally.
+* 🌐 **TryHackMe:** Ranked in the **Top 3%** Globally.
 
 ### 🛠️ Tech Stack & Tools
 
