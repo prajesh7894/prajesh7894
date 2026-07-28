@@ -2,7 +2,7 @@
 
 ### Cybersecurity Professional | VAPT Specialist | IT Student
 
-I'm an Information Technology student with a strong focus on offensive security, ethical hacking, and vulnerability assessment. When I'm not auditing systems or tackling CTF challenges, I'm creating educational content to help others navigate the cybersecurity landscape.
+I'm an Information Technology student with a strong focus on offensive security, ethical hacking, and vulnerability assessment. When I'm auditing systems or tackling CTF challenges.
 
 ### 🛡️ What I Do
 * 🔍 **VAPT & Ethical Hacking:** Performing deep-dive security audits and network scans using industry-standard tools.
@@ -10,7 +10,7 @@ I'm an Information Technology student with a strong focus on offensive security,
 * 🤝 **Team Collaboration:** Actively participating in national cybersecurity hackathons and competitive technical challenges.
 
 ### 🏆 Achievements
-* 🌐 **TryHackMe:** Ranked in the **Top 3%** Globally.
+* 🌐 **TryHackMe:** Ranked in the **Top 2%** Globally.
 
 ### 🛠️ Tech Stack & Tools
 
