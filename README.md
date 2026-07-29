@@ -30,18 +30,12 @@ I am a cybersecurity professional and full-stack engineer who specializes in fin
 
 #### 🔴 Offensive Security & Analysis
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=kali,linux,bash,regex&theme=dark" /></a>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=kali,linux,bash,regex,powershell&theme=dark" /></a>
 </p>
 
 #### 🟢 Defensive & DevSecOps
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,aws&theme=dark" /></a>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,cloudflare&theme=dark" /></a>
 </p>
 
 #### 🏗️ Full-Stack Engineering
@@ -64,12 +58,12 @@ I am a cybersecurity professional and full-stack engineer who specializes in fin
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajesh7894&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6&bg_color=00000000" alt="Prajesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajesh7894&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6&background=00000000" alt="Prajesh's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajesh7894&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6" alt="Prajesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajesh7894&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6" alt="Prajesh's GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajesh7894&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prajesh7894&theme=dracula&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
