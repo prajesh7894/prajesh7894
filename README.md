@@ -33,17 +33,17 @@ I am a cybersecurity professional and full-stack engineer who specializes in fin
 
 #### 🔴 Offensive Security & Analysis
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=kali,linux,bash,regex,powershell&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,regex,powershell&theme=dark" />
 </p>
 
 #### 🟢 Defensive & DevSecOps
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,cloudflare&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,cloudflare&theme=dark" />
 </p>
 
 #### 🏗️ Full-Stack Engineering & Competitive Programming
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,ts,react,nodejs,tailwind,supabase,sqlite,flutter&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,ts,react,nodejs,tailwind,supabase,sqlite,flutter&theme=dark" />
 </p>
 
 ---
@@ -58,17 +58,14 @@ I am a cybersecurity professional and full-stack engineer who specializes in fin
 
 ---
 
-### 📊 GitHub Analytics
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajesh7894&show_icons=true&theme=tokyonight&hide_border=true" alt="Prajesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajesh7894&theme=tokyonight&hide_border=true" alt="Prajesh's GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajesh7894&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajesh7894/prajesh7894/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajesh7894/prajesh7894/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajesh7894/prajesh7894/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
