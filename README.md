@@ -6,8 +6,6 @@
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://tryhackme.com/p/YOUR_USERNAME_HERE"><img src="https://img.shields.io/badge/TryHackMe-2ECC71?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-    <a href="https://codeforces.com/profile/YOUR_USERNAME_HERE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-    <a href="https://www.codechef.com/users/YOUR_USERNAME_HERE"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   </p>
 
   <br/>
